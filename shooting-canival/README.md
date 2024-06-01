@@ -4,7 +4,7 @@ Where popcorns and shots come together.
 ![demo](https://img.itch.zone/aW1nLzE2MzcxNjAyLmpwZWc=/original/1E%2B6AT.jpeg)
 
 ## Description
-A cinematic shooting galery! Popcorns with physics engine built using with[cannon.js](https://github.com/schteppe/cannon.js). This scene demonstrates interactions between multiple dynamic objects.
+A cinematic shooting galery! Popcorns with physics engine built using [cannon.js](https://github.com/schteppe/cannon.js). This scene demonstrates interactions between multiple dynamic objects.
 
 ## Instructions
 Hir the targets at each level, don't waste your ammo or you will have to press the button and try again.
